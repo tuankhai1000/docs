@@ -4,3 +4,9 @@
   "semi": true,
   "singleQuote": false
 }
+{
+  "trailingComma": "es8",
+  "tabWidth": 4,
+  "semi": true,
+  "singleQuote": false
+}
